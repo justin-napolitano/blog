@@ -1,3 +1,79 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseurl = "https://www.jnapolitano.io"
+title = "Justin Napolitano"
+theme = ["hugo-coder", "hugo-shortcodes"]
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+
+[params]
+  author = "Justin Napolitano"
+  info = "Analyst"
+  description = "Justin Napolitano's Personal Website"
+  keywords = "blog,projects,personal"
+  avatarurl = "static/images/avatar.jpeg"
+  gravatar = "justin@jnapolitano.io"
+
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2022
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/justin-napolitano/"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/just_napolitano"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 3
+  url = "https://www.linkedin.com/in/justin-napolitano/"
+[[params.social]]
+  name = "CV"
+  icon = "fa fa-file fa-2x"
+  weight = 4
+  url = "/current_resume.pdf"
+
+
+# Menu links
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
+[[menu.main]]
+  name = "Projects"
+  weight = 2
+  url = "projects"
+[[menu.main]]
+  name = "Resume"
+  weight = 3
+  url = "/current_resume.pdf"
+[[menu.main]]
+  name = "Contact"
+  weight = 4
+  url  = "contact/"
+
