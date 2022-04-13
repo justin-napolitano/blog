@@ -17,9 +17,54 @@
     </item>
     
     <item>
+      <title>analysis</title>
+      <link>https://justin-napolitano.github.io/categories/analysis/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/categories/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>energy</title>
+      <link>https://justin-napolitano.github.io/categories/energy/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/categories/energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>jupyterlab</title>
+      <link>https://justin-napolitano.github.io/categories/jupyterlab/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/categories/jupyterlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project</title>
+      <link>https://justin-napolitano.github.io/categories/project/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/categories/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://justin-napolitano.github.io/categories/python/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>syntax</title>
       <link>https://justin-napolitano.github.io/categories/syntax/</link>
-      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://justin-napolitano.github.io/categories/syntax/</guid>
       <description></description>
@@ -28,7 +73,7 @@
     <item>
       <title>themes</title>
       <link>https://justin-napolitano.github.io/categories/themes/</link>
-      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://justin-napolitano.github.io/categories/themes/</guid>
       <description></description>

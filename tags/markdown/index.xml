@@ -8,7 +8,7 @@
     <language>en</language>
     <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://justin-napolitano.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Testing Static Maps</title>
+      <title>Identifying Spent Wells Near Pipelines in the United States</title>
       <link>https://justin-napolitano.github.io/posts/wells_near_pipelines/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
@@ -32,15 +32,6 @@
       
       <guid>https://justin-napolitano.github.io/posts/placeholder-text/</guid>
       <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Testing</title>
-      <link>https://justin-napolitano.github.io/posts/market-pipelines/</link>
-      <pubDate>Fri, 13 Apr 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://justin-napolitano.github.io/posts/market-pipelines/</guid>
-      <description>Natural Gas Market Hubs and Interstate Pipeline Corridors    Data Import    import pandas as pd import matplotlib.pyplot as plt import geopandas as gpd import folium import contextily as cx import rtree from zlib import crc32 import hashlib from shapely.geometry import Point, LineString, Polygon Natural Gas Pipeline Data    ## Importing our DataFrames #gisfilepath = &amp;#34;/Users/jnapolitano/Projects/data/energy/Natural_Gas_Pipelines.geojson&amp;#34; gisfilepath = &amp;#39;/Users/jnapolitano/Projects/data/energy/Natural_Gas_Liquid_Pipelines.zip&amp;#39; ng_pipeline_df = gpd.read_file(gisfilepath) ng_pipeline_df = ng_pipeline_df.</description>
     </item>
     
   </channel>
