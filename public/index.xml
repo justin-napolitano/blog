@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Justin Napolitano</title>
+    <link>jnapolitano.io/</link>
+    <description>Recent content on Justin Napolitano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="jnapolitano.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Justin Napolitano</title>
+      <link>jnapolitano.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>jnapolitano.io/about/</guid>
+      <description>I strategically aggregate topics and insights from large data sets to better understand political, economic, and legal institutions.
+Interests:
+ Energy production and logistics Business strategy United States Supreme Court behavior and jurisprudence International financial and commercial regulatory organizations  What keeps me up at night:
+ The geopolitics of global fossil fuel dependency  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>jnapolitano.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>jnapolitano.io/contact/</guid>
+      <description>Email    justin@jnapolitano.io Phone    +18322990372 Twitter    @just_napolitano
+LinkedIn    /in/justin-napolitano/
+Github    /justin-napolitano</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>jnapolitano.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>jnapolitano.io/projects/</guid>
+      <description>journal.jnapolitano.io    A collection of my articles and research papers.
+energy.jnapolitano.io    An analysis of the United States spent wells to identify possible carbon storage locations adjacent to pipelines and ports.
+freight.jnapolitano.io    An review of the United States supply chain and freight transportation network.
+Turkish-Kurdish Analysis Database     Manual.pdf Excel Data  Court-Behavior.io    An open source project to develop a literature review of the behavioral model of jurisprudence and to publish related articles.</description>
+    </item>
+    
+  </channel>
+</rss>
