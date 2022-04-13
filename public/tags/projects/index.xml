@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>projects on Justin Napolitano</title>
+    <link>https://justin-napolitano.github.io/tags/projects/</link>
+    <description>Recent content in projects on Justin Napolitano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://justin-napolitano.github.io/tags/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>energy.jnapolitano.io</title>
+      <link>https://justin-napolitano.github.io/posts/energy.jnapolitano.io/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/posts/energy.jnapolitano.io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>freight.jnapolitano.io</title>
+      <link>https://justin-napolitano.github.io/posts/freight.jnapolitano.io/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/posts/freight.jnapolitano.io/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

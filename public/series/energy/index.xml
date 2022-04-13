@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Energy on Justin Napolitano</title>
+    <link>https://justin-napolitano.github.io/series/energy/</link>
+    <description>Recent content in Energy on Justin Napolitano</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://justin-napolitano.github.io/series/energy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Identifying Spent Wells Near Pipelines in the United States</title>
+      <link>https://justin-napolitano.github.io/posts/wells_near_pipelines/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/posts/wells_near_pipelines/</guid>
+      <description>Potential Carbon Storage Wells Near Pipelines    Import and Procedural Functions    import pandas as pd import matplotlib.pyplot as plt import geopandas as gpd import folium import contextily as cx import rtree from zlib import crc32 import hashlib from shapely.geometry import Point, LineString, Polygon import numpy as np from scipy.spatial import cKDTree from shapely.geometry import Point from haversine import Unit from geopy.distance import distance Query Plan    Restrictions     Must be near a pipeline terminal  Imports     Pipeline Data Well Data  Filtering      For each well calculate nearest pipeline</description>
+    </item>
+    
+  </channel>
+</rss>

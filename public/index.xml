@@ -2,16 +2,107 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Justin Napolitano</title>
-    <link>https://jnapolitano.io/</link>
+    <link>https://justin-napolitano.github.io/</link>
     <description>Recent content on Justin Napolitano</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://jnapolitano.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 13 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://justin-napolitano.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>energy.jnapolitano.io</title>
+      <link>https://justin-napolitano.github.io/posts/energy.jnapolitano.io/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/posts/energy.jnapolitano.io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>European Natural Gas Imports by Country and Trading Partner</title>
+      <link>https://justin-napolitano.github.io/posts/data_exploration/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/posts/data_exploration/</guid>
+      <description>Eurostat Natural Gas Data    Import and Procedural Functions    import pandas as pd import matplotlib.pyplot as plt import geopandas as gpd import folium import contextily as cx import rtree from zlib import crc32 import hashlib from shapely.geometry import Point, LineString, Polygon import numpy as np from scipy.spatial import cKDTree from shapely.geometry import Point from haversine import Unit from geopy.distance import distance import re Query Strategy    Imports    TO many to list&amp;hellip; I&amp;rsquo;ll ad them as I go below</description>
+    </item>
+    
+    <item>
+      <title>freight.jnapolitano.io</title>
+      <link>https://justin-napolitano.github.io/posts/freight.jnapolitano.io/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/posts/freight.jnapolitano.io/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Identifying Spent Wells Near Pipelines in the United States</title>
+      <link>https://justin-napolitano.github.io/posts/wells_near_pipelines/</link>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/posts/wells_near_pipelines/</guid>
+      <description>Potential Carbon Storage Wells Near Pipelines    Import and Procedural Functions    import pandas as pd import matplotlib.pyplot as plt import geopandas as gpd import folium import contextily as cx import rtree from zlib import crc32 import hashlib from shapely.geometry import Point, LineString, Polygon import numpy as np from scipy.spatial import cKDTree from shapely.geometry import Point from haversine import Unit from geopy.distance import distance Query Plan    Restrictions     Must be near a pipeline terminal  Imports     Pipeline Data Well Data  Filtering      For each well calculate nearest pipeline</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://justin-napolitano.github.io/posts/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/posts/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://justin-napolitano.github.io/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/posts/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>More Rich Content</title>
+      <link>https://justin-napolitano.github.io/posts/more-rich-content/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/posts/more-rich-content/</guid>
+      <description>&lt;p&gt;Hugo Coder provides some Custom Shortcodes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://justin-napolitano.github.io/posts/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/posts/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://justin-napolitano.github.io/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/posts/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://justin-napolitano.github.io/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/posts/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>About Justin Napolitano</title>
-      <link>https://jnapolitano.io/about/</link>
+      <link>https://justin-napolitano.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jnapolitano.io/about/</guid>
+      <guid>https://justin-napolitano.github.io/about/</guid>
       <description>I strategically aggregate topics and insights from large data sets to better understand political, economic, and legal institutions.
 Interests:
  Energy production and logistics Business strategy United States Supreme Court behavior and jurisprudence International financial and commercial regulatory organizations  What keeps me up at night:
@@ -20,10 +111,10 @@ Interests:
     
     <item>
       <title>Contact</title>
-      <link>https://jnapolitano.io/contact/</link>
+      <link>https://justin-napolitano.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jnapolitano.io/contact/</guid>
+      <guid>https://justin-napolitano.github.io/contact/</guid>
       <description>Email    justin@jnapolitano.io Phone    +18322990372 Twitter    @just_napolitano
 LinkedIn    /in/justin-napolitano/
 Github    /justin-napolitano</description>
@@ -31,14 +122,14 @@ Github    /justin-napolitano</description>
     
     <item>
       <title>Projects</title>
-      <link>https://jnapolitano.io/projects/</link>
+      <link>https://justin-napolitano.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jnapolitano.io/projects/</guid>
+      <guid>https://justin-napolitano.github.io/projects/</guid>
       <description>journal.jnapolitano.io    A collection of my articles and research papers.
-energy.jnapolitano.io    An analysis of the United States spent wells to identify possible carbon storage locations adjacent to pipelines and ports.
-freight.jnapolitano.io    An review of the United States supply chain and freight transportation network.
-Turkish-Kurdish Analysis Database     Manual.pdf Excel Data  Court-Behavior.io    An open source project to develop a literature review of the behavioral model of jurisprudence and to publish related articles.</description>
+energy.jnapolitano.io    An analysis of spent oil and gas well in the United States in order to identify possible carbon storage locations adjacent to pipelines and ports.
+freight.jnapolitano.io    A review of the United States supply chain and freight transportation network with consideration for petrolium and natural gas transportation.
+Turkish-Kurdish Analysis Database     Manual.</description>
     </item>
     
   </channel>
