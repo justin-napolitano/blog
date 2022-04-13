@@ -8,6 +8,15 @@
     <language>en</language>
     <lastBuildDate>Wed, 13 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://justin-napolitano.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>css</title>
+      <link>https://justin-napolitano.github.io/tags/css/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>development</title>
       <link>https://justin-napolitano.github.io/tags/development/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
@@ -26,6 +35,15 @@
     </item>
     
     <item>
+      <title>europe</title>
+      <link>https://justin-napolitano.github.io/tags/europe/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/tags/europe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>freight</title>
       <link>https://justin-napolitano.github.io/tags/freight/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
@@ -35,11 +53,38 @@
     </item>
     
     <item>
+      <title>html</title>
+      <link>https://justin-napolitano.github.io/tags/html/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/tags/html/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>hugo</title>
       <link>https://justin-napolitano.github.io/tags/hugo/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://justin-napolitano.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>markdown</title>
+      <link>https://justin-napolitano.github.io/tags/markdown/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>natural-gas</title>
+      <link>https://justin-napolitano.github.io/tags/natural-gas/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/tags/natural-gas/</guid>
       <description></description>
     </item>
     
@@ -62,38 +107,20 @@
     </item>
     
     <item>
+      <title>python</title>
+      <link>https://justin-napolitano.github.io/tags/python/</link>
+      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://justin-napolitano.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>themes</title>
       <link>https://justin-napolitano.github.io/tags/themes/</link>
       <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://justin-napolitano.github.io/tags/themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>css</title>
-      <link>https://justin-napolitano.github.io/tags/css/</link>
-      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://justin-napolitano.github.io/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>html</title>
-      <link>https://justin-napolitano.github.io/tags/html/</link>
-      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://justin-napolitano.github.io/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>https://justin-napolitano.github.io/tags/markdown/</link>
-      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://justin-napolitano.github.io/tags/markdown/</guid>
       <description></description>
     </item>
     
