@@ -1,4 +1,5 @@
-baseurl = "https://www.jnapolitano.io"
+relativeURLs = true
+baseurl = "https://jnapolitano.io"
 title = "Justin Napolitano"
 theme = ["hugo-coder", "hugo-shortcodes"]
 languagecode = "en"

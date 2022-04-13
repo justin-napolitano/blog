@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>jnapolitano.io/about/</loc>
+    <loc>https://jnapolitano.io/about/</loc>
   </url><url>
-    <loc>jnapolitano.io/authors/</loc>
+    <loc>https://jnapolitano.io/authors/</loc>
   </url><url>
-    <loc>jnapolitano.io/categories/</loc>
+    <loc>https://jnapolitano.io/categories/</loc>
   </url><url>
-    <loc>jnapolitano.io/contact/</loc>
+    <loc>https://jnapolitano.io/contact/</loc>
   </url><url>
-    <loc>jnapolitano.io/</loc>
+    <loc>https://jnapolitano.io/</loc>
   </url><url>
-    <loc>jnapolitano.io/projects/</loc>
+    <loc>https://jnapolitano.io/projects/</loc>
   </url><url>
-    <loc>jnapolitano.io/series/</loc>
+    <loc>https://jnapolitano.io/series/</loc>
   </url><url>
-    <loc>jnapolitano.io/tags/</loc>
+    <loc>https://jnapolitano.io/tags/</loc>
   </url>
 </urlset>
