@@ -9,7 +9,11 @@ slug = "contact"
 
 ## Phone
 
-{{< tel number="+18322990372" />}}
+{{< tel number="+1832290372" />}}
+
+## Calendly
+
+[/justin-napolitano](https://calendly.com/justin-napolitano)
 
 ## Twitter
 

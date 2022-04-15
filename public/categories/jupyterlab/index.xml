@@ -6,16 +6,7 @@
     <description>Recent content in jupyterlab on Justin Napolitano</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://justin-napolitano.github.io/categories/jupyterlab/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>European Natural Gas Imports by Country and Trading Partner</title>
-      <link>https://justin-napolitano.github.io/posts/data_exploration/</link>
-      <pubDate>Wed, 13 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://justin-napolitano.github.io/posts/data_exploration/</guid>
-      <description>Eurostat Natural Gas Data    Import and Procedural Functions    import pandas as pd import matplotlib.pyplot as plt import geopandas as gpd import folium import contextily as cx import rtree from zlib import crc32 import hashlib from shapely.geometry import Point, LineString, Polygon import numpy as np from scipy.spatial import cKDTree from shapely.geometry import Point from haversine import Unit from geopy.distance import distance import re Query Strategy    Imports    TO many to list&amp;hellip; I&amp;rsquo;ll ad them as I go below</description>
-    </item>
-    
+    <lastBuildDate>Sun, 10 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://justin-napolitano.github.io/categories/jupyterlab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Identifying Spent Wells Near Pipelines in the United States</title>
       <link>https://justin-napolitano.github.io/posts/wells_near_pipelines/</link>

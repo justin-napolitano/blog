@@ -13,6 +13,11 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
 [params]
   author = "Justin Napolitano"
   info = "Analyst"
@@ -21,8 +26,8 @@ pygmentscodefencesguesssyntax = true
   avatarurl = "static/images/avatar.jpeg"
   gravatar = "justin@jnapolitano.io"
 
-  favicon_32 = "/img/favicon-32x32.png"
-  favicon_16 = "/img/favicon-16x16.png"
+  favicon_32 = "/icons/favicons/favicon-32x32.png"
+  favicon_16 = "/icons/favicons/favicon-16x16.png"
 
   since = 2022
 
@@ -47,7 +52,7 @@ pygmentscodefencesguesssyntax = true
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
-  weight = 3
+  weight = 2
   url = "https://twitter.com/just_napolitano"
 [[params.social]]
   name = "LinkedIn"
@@ -55,9 +60,14 @@ pygmentscodefencesguesssyntax = true
   weight = 3
   url = "https://www.linkedin.com/in/justin-napolitano/"
 [[params.social]]
+  name = "Calendly"
+  icon = "fa fa-calendar fa-2x"
+  weight = 4
+  url = "https://calendly.com/justin-napolitano"  
+[[params.social]]
   name = "CV"
   icon = "fa fa-file fa-2x"
-  weight = 4
+  weight = 5
   url = "/current_resume.pdf"
 
 
@@ -78,7 +88,3 @@ pygmentscodefencesguesssyntax = true
   name = "Contact"
   weight = 5
   url  = "contact/"
-[[menu.main]]
-name = "Blog"
-weight = 4
-url = "posts/"

@@ -2,13 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://justin-napolitano.github.io/categories/analysis/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://justin-napolitano.github.io/categories/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://justin-napolitano.github.io/tags/css/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://justin-napolitano.github.io/categories/development/</loc>
@@ -20,19 +14,7 @@
     <loc>https://justin-napolitano.github.io/tags/energy/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://justin-napolitano.github.io/categories/energy/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://justin-napolitano.github.io/posts/energy.jnapolitano.io/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://justin-napolitano.github.io/tags/europe/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://justin-napolitano.github.io/posts/data_exploration/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://justin-napolitano.github.io/series/european-energy/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://justin-napolitano.github.io/tags/freight/</loc>
@@ -41,22 +23,10 @@
     <loc>https://justin-napolitano.github.io/posts/freight.jnapolitano.io/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://justin-napolitano.github.io/tags/html/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://justin-napolitano.github.io/tags/hugo/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://justin-napolitano.github.io/categories/jupyterlab/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://justin-napolitano.github.io/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://justin-napolitano.github.io/tags/markdown/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://justin-napolitano.github.io/tags/natural-gas/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://justin-napolitano.github.io/tags/personal-project/</loc>
@@ -65,19 +35,7 @@
     <loc>https://justin-napolitano.github.io/posts/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://justin-napolitano.github.io/categories/project/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://justin-napolitano.github.io/tags/projects/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://justin-napolitano.github.io/tags/python/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://justin-napolitano.github.io/categories/python/</loc>
-    <lastmod>2022-04-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://justin-napolitano.github.io/series/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://justin-napolitano.github.io/tags/</loc>
@@ -86,50 +44,52 @@
     <loc>https://justin-napolitano.github.io/tags/themes/</loc>
     <lastmod>2022-04-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://justin-napolitano.github.io/categories/analysis/</loc>
+    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://justin-napolitano.github.io/tags/css/</loc>
+    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://justin-napolitano.github.io/series/energy/</loc>
+    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://justin-napolitano.github.io/categories/energy/</loc>
+    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://justin-napolitano.github.io/tags/html/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://justin-napolitano.github.io/posts/wells_near_pipelines/</loc>
     <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://justin-napolitano.github.io/posts/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://justin-napolitano.github.io/categories/jupyterlab/</loc>
+    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://justin-napolitano.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://justin-napolitano.github.io/tags/markdown/</loc>
+    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://justin-napolitano.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://justin-napolitano.github.io/categories/project/</loc>
+    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://justin-napolitano.github.io/series/themes-guide/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://justin-napolitano.github.io/categories/python/</loc>
+    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://justin-napolitano.github.io/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://justin-napolitano.github.io/posts/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://justin-napolitano.github.io/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <loc>https://justin-napolitano.github.io/series/</loc>
+    <lastmod>2022-04-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://justin-napolitano.github.io/posts/more-rich-content/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://justin-napolitano.github.io/posts/placeholder-text/</loc>
+    <loc>https://justin-napolitano.github.io/tags/shortcodes/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://justin-napolitano.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://justin-napolitano.github.io/posts/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://justin-napolitano.github.io/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://justin-napolitano.github.io/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://justin-napolitano.github.io/posts/european-gas-imports/</loc>
   </url><url>
     <loc>https://justin-napolitano.github.io/about/</loc>
   </url><url>
