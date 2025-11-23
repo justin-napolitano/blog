@@ -75,19 +75,21 @@ blog/
 ├── layouts/              # Hugo layouts and templates
 ├── public/               # Generated static site output
 ├── python-build.py       # Python script to automate build and deployment
-├── resources/            # Hugo resource files (CSS, JS, images)
+├── resources/            # Hugo resource files
 ├── static/               # Static assets like images, icons
-└── themes/               # Hugo themes used
+├── themes/               # Hugo themes used
+└── README.md             # This file
 ```
 
 ## Future Work / Roadmap
 
-- Improve documentation and add more detailed usage instructions
-- Automate deployment to GitHub Pages or other hosting
-- Add more interactive features and analytics
-- Expand blog content with more technical articles
-- Refactor build scripts for enhanced error handling and logging
+- Expand automated deployment capabilities in the build pipeline
+- Enhance theme customization and accessibility features
+- Integrate additional content types and interactive elements
+- Improve documentation and developer onboarding
+- Add continuous integration and testing for build process
+
 
 ---
 
-*Note: Some assumptions were made about usage and deployment based on typical Hugo projects and the existing build scripts.*
+This README assumes the repository is actively maintained and used for personal blogging and project documentation, leveraging Hugo's static site generation capabilities combined with Python automation for builds.
