@@ -20,6 +20,14 @@ seoSecondaryKeywords:
   - static site generation
   - python build automation
 seoOptimized: true
+topicFamily: static
+topicFamilyConfidence: 0.95
+topicFamilyNotes: >-
+  The post focuses extensively on a Hugo-based static site/blog architecture, theming, markdown
+  content, and Python automation in the context of a static site. The 'static' family explicitly
+  covers static sites and blog projects using Hugo and related tooling, matching the majority of the
+  content. Although automation is involved, it is a supporting aspect of the broader static site
+  project.
 ---
 
 # Technical Overview of the blog Repository
@@ -64,3 +72,4 @@ Sample posts demonstrate the use of markdown with front matter metadata, support
 This project exemplifies a pragmatic approach to personal website management using static site generation combined with automation scripting. It balances ease of content creation, site performance, and maintainability. The use of Hugo themes and custom shortcodes supports rich content presentation, while the Python build automation streamlines deployment workflows.
 
 Returning to this project, one should focus on maintaining the build pipeline, updating themes as needed, and expanding content types while preserving the clear separation of concerns between content, presentation, and automation.
+
