@@ -1,12 +1,26 @@
 ---
-slug: "github-blog"
-title: "blog"
-repo: "justin-napolitano/blog"
-githubUrl: "https://github.com/justin-napolitano/blog"
-generatedAt: "2025-11-23T08:39:29.263912Z"
-source: "github-auto"
+slug: github-blog
+title: Technical Overview and Architecture of a Hugo-Based Personal Blog
+repo: justin-napolitano/blog
+githubUrl: https://github.com/justin-napolitano/blog
+generatedAt: '2025-11-23T08:39:29.263912Z'
+source: github-auto
+summary: >-
+  Detailed overview of a personal blog built with Hugo featuring multi-theme support, Python build
+  automation, and frontend enhancements.
+tags:
+  - hugo
+  - static-site-generator
+  - python
+  - build-automation
+  - blog-architecture
+  - frontend
+seoPrimaryKeyword: hugo personal blog
+seoSecondaryKeywords:
+  - static site generation
+  - python build automation
+seoOptimized: true
 ---
-
 
 # Technical Overview of the blog Repository
 
