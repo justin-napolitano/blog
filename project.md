@@ -7,8 +7,8 @@ githubUrl: https://github.com/justin-napolitano/blog
 generatedAt: '2025-11-24T21:34:04.352Z'
 source: github-auto
 summary: >-
-  A guide to setting up a personal blog using Hugo, featuring automation with
-  Python and custom themes.
+  A guide to setting up a personal blog using Hugo, featuring automation with Python and custom
+  themes.
 tags:
   - hugo
   - static site generator
@@ -25,8 +25,8 @@ seoSecondaryKeywords:
   - local development
   - blog deployment pipeline
 seoOptimized: true
-topicFamily: null
-topicFamilyConfidence: null
+topicFamily: static
+topicFamilyConfidence: 0.9
 kind: project
 entryLayout: project
 showInProjects: true
@@ -128,3 +128,4 @@ blog/
 ---
 
 This README assumes the repository is actively maintained and used for personal blogging and project documentation, leveraging Hugo's static site generation capabilities combined with Python automation for builds.
+
