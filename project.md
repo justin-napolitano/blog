@@ -1,18 +1,30 @@
 ---
 slug: github-blog
 id: github-blog
-title: blog
+title: Building a Personal Blog with Hugo and Python Automation
 repo: justin-napolitano/blog
 githubUrl: https://github.com/justin-napolitano/blog
 generatedAt: '2025-11-24T21:34:04.352Z'
 source: github-auto
 summary: >-
-  Personal website and blog of Justin Napolitano built using the Hugo static
-  site generator with custom themes and content.
-tags: []
-seoPrimaryKeyword: ''
-seoSecondaryKeywords: []
-seoOptimized: false
+  Explore how to create a personal blog using Hugo, featuring automation with
+  Python and custom themes for a streamlined workflow.
+tags:
+  - hugo
+  - static site generator
+  - python
+  - markdown
+  - web development
+  - blogging
+  - automation
+seoPrimaryKeyword: hugo static site blog
+seoSecondaryKeywords:
+  - personal blog setup
+  - python build automation
+  - hugo themes
+  - markdown blogging
+  - local development with hugo
+seoOptimized: true
 topicFamily: null
 topicFamilyConfidence: null
 kind: project
