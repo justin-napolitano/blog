@@ -1,13 +1,13 @@
 ---
 slug: github-blog
-title: Technical Overview and Architecture of a Hugo-Based Personal Blog
+title: Technical Overview of My Hugo Blog Repository
 repo: justin-napolitano/blog
 githubUrl: https://github.com/justin-napolitano/blog
 generatedAt: '2025-11-23T08:39:29.263912Z'
 source: github-auto
 summary: >-
-  Detailed overview of a personal blog built with Hugo featuring multi-theme support, Python build
-  automation, and frontend enhancements.
+  Explore the architecture and automation behind my Hugo-based blog, focusing on
+  build processes, theming, and content management.
 tags:
   - hugo
   - static-site-generator
@@ -15,19 +15,29 @@ tags:
   - build-automation
   - blog-architecture
   - frontend
-seoPrimaryKeyword: hugo personal blog
+  - static site generator
+  - markdown
+  - automation
+  - web development
+seoPrimaryKeyword: hugo blog repository
 seoSecondaryKeywords:
   - static site generation
-  - python build automation
+  - build automation
+  - content management
+  - frontend enhancements
+  - markdown usage
 seoOptimized: true
 topicFamily: static
 topicFamilyConfidence: 0.95
 topicFamilyNotes: >-
-  The post focuses extensively on a Hugo-based static site/blog architecture, theming, markdown
-  content, and Python automation in the context of a static site. The 'static' family explicitly
-  covers static sites and blog projects using Hugo and related tooling, matching the majority of the
-  content. Although automation is involved, it is a supporting aspect of the broader static site
+  The post focuses extensively on a Hugo-based static site/blog architecture,
+  theming, markdown content, and Python automation in the context of a static
+  site. The 'static' family explicitly covers static sites and blog projects
+  using Hugo and related tooling, matching the majority of the content. Although
+  automation is involved, it is a supporting aspect of the broader static site
   project.
+kind: project
+id: github-blog
 ---
 
 # Technical Overview of the blog Repository
